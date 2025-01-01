@@ -1,0 +1,10 @@
+app/Config/Database.php yolu altında ki dosyadan
+
+        'hostname' => 'mongodb+srv://emirix7:şifre@cluster0.8toin.mongodb.net/mito',
+
+	mongodb+srv://Ahmet_Can:<db_password>@ahmet.1qhom.mongodb.net/?retryWrites=true&w=majority&appName=Ahmet
+
+bağlantı ayarını kendi bağlantı linkinize göre ayarlayın
+ve
+
+app/Views/db.php Dosyasında aynı şekilde ekliyorsunuz

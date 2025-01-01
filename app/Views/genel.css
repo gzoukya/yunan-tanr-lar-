@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    background: #f8f9fa;
+    }
+    main {
+        flex: 1; /* Ana içerik alanı, kalan boşluğu kaplar */
+    }
+    footer {
+        background-color: #222;
+        color: white;
+        text-align: center;
+        padding: 10px 0;
+    }
